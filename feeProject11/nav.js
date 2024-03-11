@@ -35,8 +35,8 @@ function test() {
     });
 }
 
-document.addEventListener("DOMContentLoaded", function() {
-    setTimeout(function() {
+document.addEventListener("DOMContentLoaded", function () {
+    setTimeout(function () {
         test();
     });
 });
